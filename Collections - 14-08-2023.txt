@@ -1,0 +1,10 @@
+Todays Update: 
+
+OBJECTIVES: Java Collection Framework
+
+1) Introduction to Collection
+2) Collection Hierarchy
+3) Interfaces : Set, List, Queue, SortedSet, Deque, NavigableSet.
+4) Classes: Treeset, LinkedList, ArrayList, Vector, PriorityQueue, Stack.
+5) Done Hands-on on Arraylist, Hashmap, Hashset, LinkedList, Treeset.
+
